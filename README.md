@@ -1,1 +1,3 @@
-# sticker-game
+# 貼紙配對小遊戲作業
+使用jquery ui製作貼紙小遊戲
+
